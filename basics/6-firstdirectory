@@ -1,2 +1,2 @@
 #!/bin/bash
-mktemp /tmp/my_first_directory.xxxxx
+mkdir my_first_directory /tmp
