@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la [A-Z]*  mv /tmp/u
+ls -la [upper]*  mv /tmp/u
