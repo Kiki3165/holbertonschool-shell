@@ -1,2 +1,2 @@
-#!/bin/else
+#!/bin/bash
 chmod 704 hello
