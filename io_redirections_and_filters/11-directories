@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindempt d | wc -l
+find . -mindepth d | wc -l
