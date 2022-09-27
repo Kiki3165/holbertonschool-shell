@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x X .
+chmod ugo+x =X
