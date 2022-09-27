@@ -1,2 +1,2 @@
-40;10;1c#!/bin/bash
+#!/bin/bash
 mkdir my_dir u+wrx, g+x, o+x
