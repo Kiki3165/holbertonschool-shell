@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -printf ($PATH) | wc -l
+find . -type ($PATH) | wc -l
